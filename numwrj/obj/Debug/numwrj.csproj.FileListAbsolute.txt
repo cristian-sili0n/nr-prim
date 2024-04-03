@@ -1,0 +1,10 @@
+C:\Users\40757\source\repos\numwrj\bin\Debug\numwrj.exe.config
+C:\Users\40757\source\repos\numwrj\bin\Debug\numwrj.exe
+C:\Users\40757\source\repos\numwrj\bin\Debug\numwrj.pdb
+C:\Users\40757\source\repos\numwrj\obj\Debug\numwrj.csproj.AssemblyReference.cache
+C:\Users\40757\source\repos\numwrj\obj\Debug\numwrj.Form1.resources
+C:\Users\40757\source\repos\numwrj\obj\Debug\numwrj.Properties.Resources.resources
+C:\Users\40757\source\repos\numwrj\obj\Debug\numwrj.csproj.GenerateResource.cache
+C:\Users\40757\source\repos\numwrj\obj\Debug\numwrj.csproj.CoreCompileInputs.cache
+C:\Users\40757\source\repos\numwrj\obj\Debug\numwrj.exe
+C:\Users\40757\source\repos\numwrj\obj\Debug\numwrj.pdb
